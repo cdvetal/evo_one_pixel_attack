@@ -2,3 +2,7 @@ our_results/regular/cmaes.tar.xz filter=lfs diff=lfs merge=lfs -text
 our_results/regular/de.tar.xz filter=lfs diff=lfs merge=lfs -text
 our_results/regular/ga.tar.xz filter=lfs diff=lfs merge=lfs -text
 our_results/regular/ra.tar.xz filter=lfs diff=lfs merge=lfs -text
+our_results/distilled/ra.zip filter=lfs diff=lfs merge=lfs -text
+our_results/distilled/ga.zip filter=lfs diff=lfs merge=lfs -text
+our_results/distilled/de.zip filter=lfs diff=lfs merge=lfs -text
+our_results/distilled/cmaes.zip filter=lfs diff=lfs merge=lfs -text
