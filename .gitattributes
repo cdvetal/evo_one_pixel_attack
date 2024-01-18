@@ -1,0 +1,4 @@
+our_results/regular/cmaes.tar.xz filter=lfs diff=lfs merge=lfs -text
+our_results/regular/de.tar.xz filter=lfs diff=lfs merge=lfs -text
+our_results/regular/ga.tar.xz filter=lfs diff=lfs merge=lfs -text
+our_results/regular/ra.tar.xz filter=lfs diff=lfs merge=lfs -text
