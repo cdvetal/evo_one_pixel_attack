@@ -9,7 +9,7 @@ The file preparation_file.py tests the models and select the samples to attack.
 
 To carry out the attacks, the user only needs to run the files: run_cycle_de.py, run_cycle_cmaes.py, run_cycle_ga.py, run_cycle_random.py.
 
-The files de.py, ga.py, cmaes.py contain the implementation of the evolutionary algorithms. The file random_.py contains the implementation of the random attack.
+The files differential_evolution.py, genetic_algorithm.py, cmaes.py contain the implementation of the evolutionary algorithms. The file random_.py contains the implementation of the random attack.
 
 The file statistical_tests.ipnyb contains the statistical tests conducted.
 
